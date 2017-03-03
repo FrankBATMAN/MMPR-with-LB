@@ -1,5 +1,6 @@
 # Multiple-Machine-Parallel-Rendering-with-Multiple-Load-Balancing-Methods
 
+* _CAN NOT upload the source code because the project lab's property_
 * load balancing methods: Frame-coherence-dispatcher，Uniform-dispatcher，Random-dispatcher，Slide-dispatcher，Machine-learning-dispatcher
 * multiple machine parallel rendering framework: control node, render node, display node, dispatcher node
 * Agile development(Scrum)
