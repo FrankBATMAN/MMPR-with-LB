@@ -3,7 +3,7 @@
 * load balancing methods: Frame-coherence-dispatcher，Uniform-dispatcher，Random-dispatcher，Slide-dispatcher，Machine-learning-dispatcher
 * multiple machine parallel rendering framework: control node, render node, display node, dispatcher node
 * Agile development(Scrum)
-* Video: https://vimeo.com/206572043
+* Demo: <https://vimeo.com/206572043>
 * ScreenShots below
 
 
