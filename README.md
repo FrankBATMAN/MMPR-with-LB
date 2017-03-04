@@ -8,7 +8,7 @@
 * agile development(**Scrum**), Project Manager & Team Leader
 
 
-* skills: OpenGL, GLSL, C++
+* skills  tools: OpenGL, GLSL, C++， SVN， JIRA & Confluence
 * period: Nov. 2016 - Jan. 2017
 
 
