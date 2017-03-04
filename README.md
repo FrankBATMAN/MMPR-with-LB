@@ -6,6 +6,9 @@
 * **multiple machine parallel rendering framework**: control node, render node, display node, dispatcher node
 * agile development(**Scrum**)
 
+* skills: OpenGL, GLSL, C++
+* period: Nov. 2016 - Jan. 2017
+
 * demo: <https://vimeo.com/206572043>
 * screenshots below
 
