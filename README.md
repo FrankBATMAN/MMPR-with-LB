@@ -7,7 +7,7 @@
 * agile development(**Scrum**)
 
 * demo: <https://vimeo.com/206572043>
-* screenShots below
+* screenshots below
 
 ![Conclusion] (https://github.com/FrankBATMAN/Multiple-Machine-Parallel-Rendering-with-Multiple-Load-Balancing-Methods/blob/master/2Render-1Display-1Control.png)
 ![Letf-Bottom] (https://github.com/FrankBATMAN/Multiple-Machine-Parallel-Rendering-with-Multiple-Load-Balancing-Methods/blob/master/Workload_LeftBottom.png)
