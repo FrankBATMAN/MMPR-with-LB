@@ -11,7 +11,10 @@
 * skills  tools: OpenGL, GLSL, C++， SVN, JIRA & Confluence
 
 
-* demo: <https://vimeo.com/206572043>
+* demo: 
+ * <https://vimeo.com/206572043> (may have trouble accessing from mainland China)
+ * OR
+ * https://frankbatman.wistia.com/medias/9tngfa97b6
 * screenshots
 
 ![Conclusion] (https://github.com/FrankBATMAN/Multiple-Machine-Parallel-Rendering-with-Multiple-Load-Balancing-Methods/blob/master/2Render-1Display-1Control.png)
