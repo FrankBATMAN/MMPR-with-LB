@@ -17,8 +17,8 @@
  * https://frankbatman.wistia.com/medias/9tngfa97b6
 * screenshots
 
-![Conclusion] (https://github.com/FrankBATMAN/Multiple-Machine-Parallel-Rendering-with-Multiple-Load-Balancing-Methods/blob/master/2Render-1Display-1Control.png)
-![Letf-Bottom] (https://github.com/FrankBATMAN/Multiple-Machine-Parallel-Rendering-with-Multiple-Load-Balancing-Methods/blob/master/Workload_LeftBottom.png)
-![Left-Top] (https://github.com/FrankBATMAN/Multiple-Machine-Parallel-Rendering-with-Multiple-Load-Balancing-Methods/blob/master/Workload_LeftTop.png)
-![Right-Top] (https://github.com/FrankBATMAN/Multiple-Machine-Parallel-Rendering-with-Multiple-Load-Balancing-Methods/blob/master/Workload_RightTop.png)
-![Right-Bottom] (https://github.com/FrankBATMAN/Multiple-Machine-Parallel-Rendering-with-Multiple-Load-Balancing-Methods/blob/master/Workload_RightBottom.png)
+![Conclusion](https://github.com/FrankBATMAN/Multiple-Machine-Parallel-Rendering-with-Multiple-Load-Balancing-Methods/blob/master/2Render-1Display-1Control.png)
+![Letf-Bottom](https://github.com/FrankBATMAN/Multiple-Machine-Parallel-Rendering-with-Multiple-Load-Balancing-Methods/blob/master/Workload_LeftBottom.png)
+![Left-Top](https://github.com/FrankBATMAN/Multiple-Machine-Parallel-Rendering-with-Multiple-Load-Balancing-Methods/blob/master/Workload_LeftTop.png)
+![Right-Top](https://github.com/FrankBATMAN/Multiple-Machine-Parallel-Rendering-with-Multiple-Load-Balancing-Methods/blob/master/Workload_RightTop.png)
+![Right-Bottom](https://github.com/FrankBATMAN/Multiple-Machine-Parallel-Rendering-with-Multiple-Load-Balancing-Methods/blob/master/Workload_RightBottom.png)
